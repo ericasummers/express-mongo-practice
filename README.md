@@ -15,7 +15,7 @@ _This web page uses Node.js as well as MongoDB and Mongoose to set up and intera
 ```
 ./mongod --dbpath ~/desktop/nodetest1/data/db
 ```
-* In a new terminal window, navigate to the same bin folder, and type the following:
+* In a new terminal window (if using MAC OSX), navigate to the same bin folder, and type the following:
 ```
 ./mongo
 ```
