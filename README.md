@@ -1,12 +1,12 @@
-# _Mongoose and MongoDB Test Project_
+# _Express & MongoDB Test Project_
 
-#### _This web page is practice working with Node.js linking to MongoDB with Mongoose, 08 June 2017_
+#### _This web page is practice working with Node.js linking to MongoDB with Express, 08 June 2017_
 
 #### By _**Erica Wright**_
 
 ## Description
 
-_This web page uses Node.js as well as MongoDB and Mongoose to set up and interact with a Mongo database._
+_This web page uses Node.js as well as MongoDB and Express to set up and interact with a Mongo database._
 
 ## Setup/Installation Requirements
 
@@ -40,9 +40,7 @@ _Please contact ericaw21@gmail.com with concerns or comments._
 * _jQuery_
 * _Node_
 * _CSS_
-* _Vue.JS_
 * _HTML_
-* _Mongoose_
 * _MongoDB_
 * _Jade_
 * _Express_
